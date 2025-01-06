@@ -1,5 +1,10 @@
 ## Index
 
+## A
+- [AI](AI.md)
+
+## B
+- [Bullshit](Bullshit.md)
 ## M
 - [Music](Music.md)
 ## S
@@ -9,3 +14,4 @@
 
 - ### Work
 	- [Week 24-51](Week24-51.md)
+	- [Week 25-01](Week25-01.md)

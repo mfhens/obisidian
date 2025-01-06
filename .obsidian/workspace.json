@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SKAT.md",
+                "file": "Bullshit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKAT"
+              "title": "Bullshit"
             }
           }
         ]
@@ -187,10 +187,13 @@
   "active": "eab6ea0e9ee85dea",
   "lastOpenFiles": [
     "Commonplace Notes.md",
+    "Bullshit.md",
+    "AI.md",
+    "Week25-01.md",
+    "Software Architecture.md",
     "SKAT.md",
     "Music.md",
     "Week24-51.md",
-    "Software Architecture.md",
     "Week 24-51.md",
     "Work",
     "Welcome.md",
