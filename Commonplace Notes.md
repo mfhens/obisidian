@@ -3,6 +3,8 @@
 ## A
 - [AI](AI.md)
 
+## C
+- [Cloud Strategy](Cloudstrategy.md)
 ## B
 - [Bullshit](Bullshit.md)
 ## M
