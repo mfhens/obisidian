@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloudstrategy.md",
+                "file": "Week25-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloudstrategy"
+              "title": "Week25-01"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "eab6ea0e9ee85dea",
   "lastOpenFiles": [
+    "Cloudstrategy.md",
     "{DC57708E-89AA-4E55-A9CC-2C7A54B91128}.png",
     "Commonplace Notes.md",
-    "Cloudstrategy.md",
     "Bullshit.md",
     "AI.md",
     "Week25-01.md",
