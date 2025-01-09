@@ -2,11 +2,14 @@
 
 ## A
 - [AI](AI.md)
-
-## C
-- [Cloud Strategy](Cloudstrategy.md)
 ## B
 - [Bullshit](Bullshit.md)
+## C
+- [Cloud Strategy](Cloudstrategy.md)
+
+## D
++ [Defence](Defence.md)
+
 ## M
 - [Music](Music.md)
 ## S
