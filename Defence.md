@@ -9,4 +9,7 @@ DK Use Case: Naval use case targeting possible sabotage of critical infrastructu
 
 [NATO - NATO Architecture Framework, Version 4](https://www.nato.int/cps/en/natohq/topics_157575.htm)
 
+[Militärische Drohnenschwarmtechnik von Saab: Ein Soldat steuert 100 Drohnen | heise online](https://www.heise.de/news/Militaerische-Drohnenschwarmtechnik-von-Saab-Ein-Soldat-steuert-100-Drohnen-10244773.html)
+
+
 
