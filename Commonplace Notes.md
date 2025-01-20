@@ -6,6 +6,7 @@
 - [Bullshit](Bullshit.md)
 ## C
 - [Cloud Strategy](Cloudstrategy.md)
+- [Computer Games](Computer%20Games.md)
 ## D
 + [Defence](Defence.md)
 
