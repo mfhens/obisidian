@@ -23,3 +23,5 @@ Da die Cloud mehr eine Reise als ein Ziel ist, erfordert sie eine langfristige
 Partnerschaft. Ich rate dringend dazu, nicht nur das Produkt, sondern auch 
 die Organisation und deren Kultur hinter den Kulissen zu verstehen und zu 
 überprüfen, ob diese zu Ihren Erwartungen passen.
+
+![[{5D50C79A-AFBC-4ED7-8EEF-BE13F64492F1}.png]]
