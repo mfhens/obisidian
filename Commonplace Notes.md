@@ -6,10 +6,11 @@
 - [Bullshit](Bullshit.md)
 ## C
 - [Cloud Strategy](Cloudstrategy.md)
-
 ## D
 + [Defence](Defence.md)
 
+## L
+- [Leadership](Leadership.md)
 ## M
 - [Music](Music.md)
 ## S
