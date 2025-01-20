@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloudstrategy.md",
+                "file": "Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloudstrategy"
+              "title": "Movies"
             }
           }
         ]
@@ -186,12 +186,13 @@
   },
   "active": "eab6ea0e9ee85dea",
   "lastOpenFiles": [
+    "Commonplace Notes.md",
+    "Movies.md",
+    "Cloudstrategy.md",
     "{5D50C79A-AFBC-4ED7-8EEF-BE13F64492F1}.png",
     "Leadership.md",
-    "Commonplace Notes.md",
     "Defence.md",
     "Week25-01.md",
-    "Cloudstrategy.md",
     "{DC57708E-89AA-4E55-A9CC-2C7A54B91128}.png",
     "Bullshit.md",
     "AI.md",

@@ -1,0 +1,1 @@
+["Veni Vidi Vici": Wenn Elon Musk auch noch eine geladene Waffe hätte ... | Telepolis](https://www.telepolis.de/features/Veni-Vidi-Vici-Wenn-Elon-Musk-auch-noch-eine-geladene-Waffe-haette-10232290.html)
