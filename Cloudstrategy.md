@@ -25,3 +25,16 @@ die Organisation und deren Kultur hinter den Kulissen zu verstehen und zu
 überprüfen, ob diese zu Ihren Erwartungen passen.
 
 ![[{5D50C79A-AFBC-4ED7-8EEF-BE13F64492F1}.png]]
+
+Nicht jede Tool-Funktion bedeutet einen konkreten Nutzen für die 
+Organisation. Nicht benötigte, schicke Features bedeuten Ausgaben 
+ohne Mehrwert.
+
+Dasselbe gilt für IT-Werkzeuge. Ein einheitliches Versionskontrollsystem und 
+eine Form der kontinuierlichen Integration sind ein großer Schritt in Richtung 
+beschleunigter Softwarebereitstellung, auch wenn man noch an der Verkürzung 
+der Release-Zyklen und der Verbesserung der Testabdeckung arbeiten muss. Ein 
+vollständig automatisiertes Build-Deploy-Kubernetes-Container-Helm-Chart-
+Generator-Setup ist wahrscheinlich nicht hilfreich–es ist ein großartiges Ziel 
+und man kann damit bestimmt gut Prahlen, aber es ist zu viel auf einmal für die 
+traditionelle IT.
