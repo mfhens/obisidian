@@ -1,4 +1,4 @@
-Omega 6: The Triangle Stars
+mega 6: The Triangle Stars
 
 [Fear the Spotlight review – engrossing, eerie and unexpectedly thought-provoking horror | Games | The Guardian](https://www.theguardian.com/games/2024/oct/23/fear-the-spotlight-review-cozy-game-pals-blumhouse-games)
 
@@ -14,4 +14,4 @@ Omega 6: The Triangle Stars
 
 [Xenoblade Chronicles: Definitive Edition (2020) | Switch Game | Nintendo Life](https://www.nintendolife.com/games/nintendo-switch/xenoblade_chronicles_definitive_edition)
 
-[Metroid Prime Remastered (2023) | Switch Game | Nintendo Life](https://www.nintendolife.com/games/nintendo-switch/metroid_prime_remastered)
+[Metroid Prime Remastered (2023) | Switch Game | Nintendo Life](https://www.nintendolife.com/games/nintendo-switch/metroid_prime_remastered
