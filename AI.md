@@ -1,6 +1,8 @@
 ### AI i det offentlige
 Hvordan får vi AI til ikke at producere bullshit i afgørelsesbreve eg? Vi skal nok have en specialiseret model med en meget lav temperature, så vi begrænser den i at tage random things
 
+### Airtable
+[The platform to build next‒gen apps - Airtable](https://www.airtable.com/)
 ### ChatGPT is bullshit
 
 The problem here isn’t that large language models hal-
@@ -24,4 +26,9 @@ the form of language” (Shah & Bender, 2022).
 To lie = df. to make a believed-false statement to 
 another person with the intention that the other person 
 believe that statement to be true (Mahon, 2015).
+
+### Hugging Face
+[Hugging Face – The AI community building the future.](https://huggingface.co/) 
+### Langchain
+[LangChain](https://www.langchain.com/)
 
