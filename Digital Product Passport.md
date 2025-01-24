@@ -1,0 +1,1 @@
+[Winziger RISC-V-Chip für den digitalen Produktpass (DPP) | heise online](https://www.heise.de/news/Winziger-RISC-V-Chip-fuer-den-digitalen-Produktpass-DPP-10254609.html)
