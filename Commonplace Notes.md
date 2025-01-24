@@ -18,6 +18,9 @@
 ## S
 - [Software Architecture](Software%20Architecture.md)
 - [SKAT](SKAT.md)
+
+## Tools
+- [MailStore Home - Free Email Archiving & Backup for Home Users](https://www.mailstore.com/en/products/mailstore-home/)
 ## W
 
 - ### Work
