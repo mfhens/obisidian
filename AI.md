@@ -32,3 +32,5 @@ believe that statement to be true (Mahon, 2015).
 ### Langchain
 [LangChain](https://www.langchain.com/)
 
+### LM Studio
+[LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
