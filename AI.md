@@ -27,6 +27,8 @@ To lie = df. to make a believed-false statement to
 another person with the intention that the other person 
 believe that statement to be true (Mahon, 2015).
 
+### Deeplearning.ai
+https://www.deeplearning.ai/courses/
 ### Hugging Face
 [Hugging Face – The AI community building the future.](https://huggingface.co/) 
 ### Langchain
