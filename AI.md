@@ -34,8 +34,16 @@ https://www.deeplearning.ai/courses/
 ### Langchain
 [LangChain](https://www.langchain.com/)
 
+### Meta Prompting
+Prompt a reasoning model like o1 to iteratively improve the prompts to a lesser model
+
 ### LM Studio
 [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 
 ### Prompting o1-style reasoning models
 ![[{7752F18E-5D31-47BF-A9DC-6F3D9E711C80}.png]]
+
+Image understanding: Give it an image of an ERD or UML and ask it eg to generate SQL-queries or APIs to access the data
+
+### Routine Generation
+Rewriting existing Knowledge Base articles for optimized use with a LLM
