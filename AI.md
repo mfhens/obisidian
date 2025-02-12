@@ -36,3 +36,6 @@ https://www.deeplearning.ai/courses/
 
 ### LM Studio
 [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+
+### Prompting o1-style reasoning models
+![[{7752F18E-5D31-47BF-A9DC-6F3D9E711C80}.png]]
