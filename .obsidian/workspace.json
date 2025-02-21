@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "AI"
             }
+          },
+          {
+            "id": "df72a81233e2912f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca77bf537a2d29df",
+  "active": "df72a81233e2912f",
   "lastOpenFiles": [
     "{7752F18E-5D31-47BF-A9DC-6F3D9E711C80}.png",
     "Commonplace Notes.md",

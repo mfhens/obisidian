@@ -34,12 +34,13 @@ https://www.deeplearning.ai/courses/
 ### Langchain
 [LangChain](https://www.langchain.com/)
 
+### LM Studio
+[LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 ### Meta Prompting
 Prompt a reasoning model like o1 to iteratively improve the prompts to a lesser model
 
-### LM Studio
-[LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
-
+### Native Sparse Attention
+[[2502.11089] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)
 ### Prompting o1-style reasoning models
 ![[{7752F18E-5D31-47BF-A9DC-6F3D9E711C80}.png]]
 
