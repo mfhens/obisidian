@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climate.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climate"
+              "title": "Python"
             }
           }
         ],
@@ -216,6 +216,9 @@
   },
   "active": "df72a81233e2912f",
   "lastOpenFiles": [
+    "Commonplace Notes.md",
+    "Python.md",
+    "Climate.md",
     "{00BECE11-C44B-43F5-BDE9-F49B4C403BD9}.png",
     "{9D752AD0-19E2-48B4-BEDB-65F49F53BF81}.png",
     "{B8D92215-AAB7-465A-95EC-7B56FE36F210}.png",
@@ -226,9 +229,6 @@
     "{5DF222EA-0E75-4EE6-A1D0-1116297CCDB4}.png",
     "{D8015F9B-2A87-4A99-93F1-0161436A56DE}.png",
     "{80B7A2B5-4CDF-4820-8133-56F9145BDF6D}.png",
-    "{0EFADB1A-EB66-4B26-A28F-8AC152FC53BD}.png",
-    "Commonplace Notes.md",
-    "Climate.md",
     "Software Architecture.md",
     "AI.md",
     "Digital Product Passport.md",
