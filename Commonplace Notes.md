@@ -5,6 +5,7 @@
 ## B
 - [Bullshit](Bullshit.md)
 ## C
+- [Climate](Climate.md)
 - [Cloud Strategy](Cloudstrategy.md)
 - [Computer Games](Computer%20Games.md)
 ## D
@@ -16,6 +17,9 @@
 ## M
 - [Movies](Movies.md)
 - [Music](Music.md)
+
+## Programming
+- [Python](Python.md)
 ## S
 - [Software Architecture](Software%20Architecture.md)
 - [SKAT](SKAT.md)

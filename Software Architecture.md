@@ -10,5 +10,9 @@ Library to provide an abstraction on SQL in Python: SQLAlchemy is a powerful and
 ``` bash
 pip install sqlalchemy
 ```
+## Technical Documentation
+Diagrams as Code: https://www.eraser.io/
+Interactive Documentation even on Confluence Cloud: https://www.ilograph.com/
+Pythonlibrary til Cloud Diagrams: [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 ## Token-Based UI Architecture
 [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
