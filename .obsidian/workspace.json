@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Chapter 2 - The Journey to Baxxoxan"
             }
+          },
+          {
+            "id": "cafda899c2d1b11d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca77bf537a2d29df",
+  "active": "cafda899c2d1b11d",
   "lastOpenFiles": [
     "Call of the Netherdeep/The Rivals - Handling Guide.md",
     "Call of the Netherdeep/The Rivals - Overview.md",
