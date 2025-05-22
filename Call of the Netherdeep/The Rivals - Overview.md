@@ -107,3 +107,110 @@ tags: #npc #rivals #cotn #roleplay #dmtool
 - “Light above, forgive us all.” *(Dermot, before combat)*
 
 ---
+# Running the Rivals – Extended DM Notes
+tags: #cotn #rivals #dmtool #structure
+
+## 🎯 Core Issue
+The rivalry mechanic in *Call of the Netherdeep* is underdeveloped. It reduces rivals to a simplistic attitude scale: **Friendly / Indifferent / Hostile** — which only governs *how* they interact, not *what* they want or do.
+
+This leads to two common failures:
+- The Rivals become **dead or irrelevant** (killed or sidelined).
+- The Rivals become **GMPC allies**, making the game too easy or bloated.
+
+---
+
+## 🔁 Replace the Relationship Gauge with Dynamic Modes of Action
+
+Instead of focusing on attitude, **play the Rivals like PCs**: Track what they’re trying to do and how they react to the players.
+
+### 🎭 Rival Action Modes (Choose & Shift Over Time)
+- Work in **true partnership** with PCs (rare, fragile, limited)
+- **Shadow the party** believing they need help
+- **Pursue the same quest independently**
+- **Walk away entirely** ("This isn’t our fight")
+- **Seize the Jewel and take control**, possibly through betrayal
+
+📌 Let the Rivals naturally shift between these based on events and player choices.
+
+---
+
+## ⚖️ Rival Opposition > Simple Hostility
+
+Instead of “they attack you,” use **The Principle of Opposition**:
+
+> “Whatever the players believe is right — the Rivals believe the opposite.”
+
+### Examples at Endgame:
+
+| PC Choice | Rival Response |
+|-----------|----------------|
+| “We must free Alyxian.” | Ayo: “He’s mad! You’ll doom the world!” |
+| “We should help him.” | Galsariad: “There’s no helping him. He must be destroyed.” |
+| “We kill him.” | Maggie: “He’s in pain! You can’t just murder him!” |
+
+Use **attitude** to shape how they oppose (debate, sabotage, direct attack) — but let them *always* have their own agenda.
+
+---
+
+## 🗣️ Agenda-Driven Campaign Structure
+
+> "A rival must have something to compete over."
+
+### Strengthen Rival Utility by Clarifying Campaign Goals:
+
+**Three key questions for the players and Rivals to clash over:**
+
+1. **What is the Jewel of Three Prayers?**  
+   PCs (and Rivals) should know it can be fully awakened through specific shrines.
+
+2. **What is Ruidium and what should be done with it?**  
+   Each faction — and rival — may disagree.
+
+3. **Who is Alyxian, and what should be done with him?**  
+   Free, help, or destroy — and why?
+
+### 🧱 Structure Goals by Chapter
+- **Chapter 2**: “We must find out what’s in Bazzoxan — and why.”
+- **Chapter 3-4**: “What is the connection between the relics and the Jewel?”
+- **Chapter 5**: “What will we do with Alyxian’s power once it’s revealed?”
+
+Let the **Rivals stake out different opinions** on each.
+
+---
+
+## 💣 Avoid These Pitfalls
+
+### ❌ GMPC Blob
+If Rivals join the party full-time:
+- You now control 5 full-featured characters.
+- They bloat combat, slow pacing, and distort spotlight balance.
+
+💡 **Fix**: If players agree to work together:
+- Assign off-screen missions to Rivals
+- Temporarily split the party with mixed PC/rival groups
+- Encourage **short-lived alliances** that break on ideological or moral grounds
+
+### ❌ Pet Killers / Thieves
+- Don’t let Rivals steal the Jewel unless *you’re ready for full war*.
+- Players *will* murder them — and rightly so.
+
+---
+
+## 🧠 Design Philosophy
+
+- Roleplay truthfully: Rivals are autonomous actors.
+- Debate the agenda: Conflict = emotional investment.
+- Let opinions clash to spark character drama.
+- Elevate Alyxian’s myth *early* to fuel long-term engagement.
+
+---
+
+## ✅ Practical DM Tips
+- Create a “Rival Action Board” or tracker in Obsidian (e.g., YAML field per session)
+- Use interludes, overheard scenes, or rival POV flashbacks
+- Let one rival shift toward the PCs while another radicalizes
+
+---
+
+_“If you ever hit a point where you don’t know what the Rivals would do, you probably haven’t defined the PCs’ goals clearly enough.”_
+

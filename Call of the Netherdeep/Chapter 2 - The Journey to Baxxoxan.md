@@ -62,6 +62,101 @@ The statue’s eyes in **Room 1** are slightly moist, and staring into them for 
 - The character takes **1d6 psychic damage**, as Alyxian’s anguish lashes out.
     
 
+## 🩸 **Alyxian’s Tear — Tiered Relic**
+
+_Wondrous item, requires attunement (any class)_  
+Infused with the pain and memory of the Apotheon, the Tear evolves as the bearer proves their commitment to sacrifice and truth.
+
+---
+
+### 💠 **Tier I – Forgotten Fragment**
+
+_Rare – Suitable for Level 4–6_
+
+> A single tear, trapped in a ring of ancient blood.
+
+#### Effects:
+
+- **Insightful Weight**: Advantage on Insight checks. However, they have **disadvantage on Charisma (Persuasion)** checks when trying to conceal personal feelings or past trauma.
+    
+- **Echo Reversal**: 1/day reaction to reroll a failed WIS/INT/CHA save within 30 ft. Target takes **1d6 psychic damage** on success.
+    
+- **Emotional Residue**: Disadvantage on Deception and Persuasion checks when lying or suppressing personal emotions.
+    
+
+#### Curse (Optional):
+
+- On Echo Reversal use, roll a d6. On a 1, gain a temporary flaw related to guilt or self-doubt.
+    
+
+---
+
+### 💠 **Tier II – Shard of the Apotheon**
+
+_Very Rare – Suitable for Level 7–11_
+
+> The tear glows faintly now, pulsing with a heartbeat not your own.
+
+#### Effects:
+
+- **All Tier I effects**, plus:
+    
+- **Memory Pulse (1/day)**:  
+    Action – Send a wave of truth-laced memory to a 10 ft. radius. Each creature must succeed on a **DC 15 Wisdom save** or be **Stunned until the end of their next turn** as they relive a personal regret.
+    
+- **Apotheon’s Endurance**: Resistance to **psychic damage**.
+    
+
+#### Curse (Optional):
+
+- If the Memory Pulse affects an ally, the Tear weeps again: **you lose your reaction** on your next turn, staggered by guilt.
+    
+
+---
+
+### 💠 **Tier III – Tear of Reckoning**
+
+_Legendary – Suitable for Level 12+ or near the endgame_
+
+> The tear is no longer a drop — it’s an eye, closed and dreaming.
+
+#### Effects:
+
+- **All Tier II effects**, improved:
+    
+    - **Echo Reversal** now works **2/day**, and damage becomes 1d10 psychic.
+        
+    - **Memory Pulse** becomes **Memory Revelation**: stunned targets also **reveal a secret** (DM discretion).
+        
+- **Alyxian’s Will**:  
+    When a creature within 60 ft. dies, you may absorb its final thoughts (reaction). Until the end of your next turn, gain **advantage on all ability checks and saving throws**.
+    
+
+#### Drawback:
+
+- The Tear grows heavier with each use. For each Echo Reversal or Revelation used that day, the bearer gains **1 level of exhaustion. These fade on long rest.
+    
+
+---
+
+### ⚖️ Rival Variant: **The Fractured Tear**
+
+A corrupted, incomplete version of the item found by the Rivals:
+
+- May grant more power (e.g., +d4 to damage) but twist visions into paranoia or self-righteous delusion.
+    
+- Makes a great story device to contrast their path with the players’.
+---
+
+### **Appearance in the Reflection Pool**
+
+Once a character completes the blood ritual and confronts a difficult memory or flaw:
+
+- The water turns clear.
+    
+- At the bottom, glimmering like a drop of starlight, is the **Tear**.
+    
+- When lifted, it binds briefly to the character’s hand — and then embeds itself painlessly in their palm like a frozen tear-shaped birthmark.
 ---
 
 ## **3. The Mural of Divergence**
@@ -229,5 +324,3 @@ The shrine pulses with old divinity. At initiative count 20, one of the followin
     
 
 ---
-
-Would you like a printable version or alternate versions for scaling (CR 3 or CR 6+)?
