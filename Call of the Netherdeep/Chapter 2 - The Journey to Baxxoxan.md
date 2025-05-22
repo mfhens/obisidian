@@ -48,14 +48,13 @@ The statue’s eyes in **Room 1** are slightly moist, and staring into them for 
 - The pool requires an offering of **1d4 HP worth of blood**. When a character bleeds into it, they see not themselves — but a distorted _future self_.
     
 - This form represents their **worst fear, flaw, or obsession**, visualized as a brief hallucination or vision.
-    
+## CLUE 2: Reflection Pool Vision – _“The Cyst... the Cyst is still there.”_
 
-**Boons**:
+At the **Watcher’s Shrine**, a **blood offering at the Reflection Pool** triggers a shared or individual vision:
 
-- The player may ask a single question (like _divination_) to the DM, answered cryptically from Alyxian's fractured mind.
-    
-- Add tension: the more personal the question, the clearer the answer.
-    
+> _A temple of black stone, carved into a cliff, flooded in red moonlight. A scream echoes from deep within. You see an antechamber of radiant stone buried in the darkness — and a voice, whispering through time:_
+> 
+> _“The Cyst… the Cyst is still there.”_
 
 **Drawback**:
 
