@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Call of the Netherdeep/Chapter 2 - The Journey to Baxxoxan.md",
+                "file": "Call of the Netherdeep/Chapter 3 - The Researchers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - The Journey to Baxxoxan"
+              "title": "Chapter 3 - The Researchers"
             }
           }
         ],
@@ -216,8 +216,10 @@
   },
   "active": "cafda899c2d1b11d",
   "lastOpenFiles": [
-    "Software Architecture.md",
+    "Call of the Netherdeep/Chapter 3 - Faction Introduction.md",
+    "Call of the Netherdeep/Chapter 3 - The Researchers.md",
     "Call of the Netherdeep/Chapter 2 - The Journey to Baxxoxan.md",
+    "Software Architecture.md",
     "Call of the Netherdeep/The Rivals - Overview.md",
     "Call of the Netherdeep/The Rivals - Handling Guide.md",
     "{0F3E6115-BE6C-4425-822C-F6BC9464D749}.png",
