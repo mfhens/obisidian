@@ -2,12 +2,12 @@
 
 _"If we do not study power, others will misuse it."_
 
-|Hook|Description|
-|---|---|
-|🏛️ **Crematorium Logistics**|Prolix is arguing with a crematorium operator about using heat readings from the furnaces to analyze ruidium decay patterns in bodies. The operator is creeped out.|
-|🧪 **Field Lecture**|PCs pass a crowd of curious goblinoids — Prolix is giving an impromptu lecture on “sub-crystalline behavior under Abyssal stress.” Insight check reveals he’s clearly avoiding talking about ethical concerns.|
-|🧭 **Survey Clash**|The party stumbles into a heated dispute between Prolix and a Cael Morrow veteran about territorial claims on an unearthed ruidium node. He asks the PCs to help document the site “before the Consortium twists the data.”|
-|🐜 **Autopsy Request**|Prolix is trying to persuade a local soldier to give up a ruidium-tainted monster corpse. If the PCs offer assistance or access, he’s deeply grateful — and chatty.|
+| Hook                          | Description                                                                                                                                                                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏛️ **Crematorium Logistics** | Prolix is arguing with a crematorium operator about using heat readings from the furnaces to analyze ruidium decay patterns in bodies. The operator is creeped out.                                                         |
+| 🧪 **Field Lecture**          | PCs pass a crowd of curious goblinoids — Prolix is giving an impromptu lecture on “sub-crystalline behavior under Abyssal stress.” Insight check reveals he’s clearly avoiding talking about ethical concerns.              |
+| 🧭 **Survey Clash**           | The party stumbles into a heated dispute between Prolix and a Cael Morrow veteran about territorial claims on an unearthed ruidium node. He asks the PCs to help document the site “before the Consortium twists the data.” |
+| 🐜 **Autopsy Request**        | Prolix is trying to persuade a local soldier to give up a ruidium-tainted monster corpse. If the PCs offer assistance or access, he’s deeply grateful — and chatty.                                                         |
 
 ---
 
