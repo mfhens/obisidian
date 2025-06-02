@@ -6,3 +6,7 @@ Strict typechecking in Python
 
 ### SQLAlchemy
 O/R-mapping in Python
+
+### uv
+[uv](https://docs.astral.sh/uv/)
+Much better package manager than pip
