@@ -1,6 +1,9 @@
 
 ### Architecture Advisory Forum
 [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+
+### Cloud Native Operational Excellence (CNOE)
+[Cloud Native Operational Excellence CNOE | CNOE](https://cnoe.io/)
 ### Inner Source
 Interne Open Source [State of InnerSource Survey 2024](https://innersourcecommons.org/learn/research/state-of-innersource-survey-2024/) 
 
